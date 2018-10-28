@@ -16,6 +16,7 @@
 - keras
 
 #### Repository 
+    - readme.md
     - cnnClassifier.py
     - dataSets
         - training_set
