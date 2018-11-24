@@ -1,0 +1,11 @@
+Install Spark 
+Environment :
+OS : mac Os
+
+### To install scala
+
+brew install scala
+brew cask install homebrew/cask-versions/java8
+brew install apache-spark
+
+spark-shell
